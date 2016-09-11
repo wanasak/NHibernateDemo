@@ -54,7 +54,7 @@ namespace NHibernateDemoApp
                     {
                         Console.WriteLine("{0} \t{1} \t{2}",
                             student.ID,
-                            student.FirstMidName,
+                            student.FirstName,
                             student.LastName);
                     }
                     //// Get single
